@@ -1,3 +1,3 @@
 # Interpreter-for-myracket
 My racket is a subset of Drracket. I have implemented interpreter for my racket in drracket language .
-I have used struct and stack for this purpose
+I have used struct and stack for this purpose. For more details see the report
